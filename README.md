@@ -49,9 +49,3 @@ At Agnicio, I contribute to building AI capabilities that:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussraBenDaoued&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussraBenDaoued&layout=compact&theme=radical" height="165"/>
-</p>
